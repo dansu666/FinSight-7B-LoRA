@@ -81,6 +81,5 @@ sh train.sh
 create_data.py: Script for generating CoT data.
 train.sh: Configuration for Llama-Factory QLoRA training.
 assets/: Visualization of training results.
-<img width="796" height="594" alt="demo_chat" src="https://github.com/user-attachments/assets/09a7967a-d8c9-4a38-b2bd-daab2b920e33" />
-<img width="714" height="551" alt="loss_curve" src="https://github.com/user-attachments/assets/95bee649-66a4-4746-b4c4-d6f0d1e369f8" />
+
 
