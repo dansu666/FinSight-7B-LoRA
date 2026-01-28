@@ -20,7 +20,7 @@ This project demonstrates the end-to-end pipeline of **Data Engineering (Distill
 The model was trained on an NVIDIA RTX 4090. The loss converged significantly around Step 20, indicating rapid adaptation to the domain logic.
 
 ![Loss Curve](assets/loss_curve.png)
-*(这里会自动显示你放在 assets 文件夹里的图)*
+
 
 ### 2. Before vs After (Case Study)
 **Input**: "OpenAI announced GPT-5, causing a surge in computing demand, and NVIDIA's stock jumped 8% pre-market."
